@@ -2,6 +2,7 @@
 
 A collection of notebooks which demonstrate the capabilities of [Pangeo](http://pangeo.io/).
 
+These are designed to be run on the [Informatics Lab flavour of Pangeo](https://github.com/informatics-lab/our-pangeo).
 
 ## Contents
 
@@ -25,7 +26,7 @@ Notebooks with examples of discovering, loading and working with data.
 
 The second chapter of examples over domain specific workflows.
 
-#### 2.1 Weather
+#### 2.1 Weather
 
 Notebooks with examples of working with weather data.
 
