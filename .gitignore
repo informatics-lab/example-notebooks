@@ -1,0 +1,12 @@
+/*.egg-info
+/.spyderproject
+.spyderproject
+.idea/*
+/**/__pycache__
+/**/.ipynb_checkpoints
+/**/\.*.ipynb
+/.doit.db.bak
+/.doit.db.dat
+/.doit.db.dir
+
+DONT_SAVE_ANYTHING_HERE.md
