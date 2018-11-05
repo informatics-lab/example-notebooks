@@ -10,11 +10,11 @@ These are designed to be run on the [Informatics Lab flavour of Pangeo](https://
 
 The first chapter of examples cover the tools, environment and data access. 
 
-#### 1.0 Introduction to Jupyter
+#### 1.0 Introduction
 
-Notebooks demonstrating the capabilities of Jupyter Notebooks.
+Example notebooks which give an overview of Pangeo and the Jupyter environment.
 
-#### 1.1 Python Environment
+#### 1.1 Tools
 
 Notebooks covering the other tools and libraries which are included in the environment.
 
